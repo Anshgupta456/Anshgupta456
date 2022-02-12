@@ -1,3 +1,0 @@
-Hey, I have created this first file in my GitHub account using Git Commands,,,
-
-but after README file.
