@@ -1,6 +1,6 @@
 # Anshika Gupta
-## Hey there, 
-### I'm Btech CSE Final year student at Prestigious Institute THDC - IHET which is located in Tehri
-### I'm on the way to become a React.js Developer
-#### Fun Fact : The First programmer was a woman named "ADA LOVELACE"
+### Hey there, 
+Btech CSE Final year student at Prestigious Institute THDC - IHET which is located in Tehri
+I did internship at District Administration, Tehri Garhwal. Directly under the guidance of District Magistrate, Shri Mayur Dixit.
+
 
